@@ -13,7 +13,7 @@
 - [flask_web项目/部署到Pythonanywhere效果](http://yangshaoshao.pythonanywhere.com/)
 - [python学习初期整理笔记](https://gitee.com/yebail/Summary_of_basic_Python_usage/blob/master/Summary_of_Python_knowledge_points.html)
 - [学习态度可见gitee贡献度](https://gitee.com/yebail)
-- **python数据存储到mysql**![python数据存储到mysql](https://images.gitee.com/uploads/images/2019/1217/222346_7f3ea5f4_4876229.png "屏幕截图.png")
+- **python数据存储到mysql**![python数据库存储到mysql证明](https://images.gitee.com/uploads/images/2019/1217/225750_eed8ec7e_4876229.png "屏幕截图.png")
 
 
 ## 四、关于此次合作项目的态度
